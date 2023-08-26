@@ -1,6 +1,6 @@
 # Fourier-DeepONet for full waveform inversion (FWI)
 
-The data and code for the paper [M. Zhu, S. Feng, Y. Lin, & L. Lu. Fourier-DeepONet: Fourier-enhanced deep operator networks for full waveform inversion with improved accuracy, generalizability, and robustness. Computer Methods in Applied Mechanics and Engineering, 416, 116300, 2023](https://doi.org/10.1016/j.cma.2023.116300)
+The data and code for the paper [M. Zhu, S. Feng, Y. Lin, & L. Lu. Fourier-DeepONet: Fourier-enhanced deep operator networks for full waveform inversion with improved accuracy, generalizability, and robustness. *Computer Methods in Applied Mechanics and Engineering*, 416, 116300, 2023.](https://doi.org/10.1016/j.cma.2023.116300)
 
 ## Datasets
 
@@ -22,12 +22,12 @@ If you use this data or code for academic research, you are encouraged to cite t
 
 ```
 @article{zhu2023fourier,
-  title   = {Fourier-DeepONet: Fourier-enhanced deep operator networks for full waveform inversion with improved accuracy, generalizability, and robustness},
+  title   = {{Fourier-DeepONet}: Fourier-enhanced deep operator networks for full waveform inversion with improved accuracy, generalizability, and robustness},
   author  = {Zhu, Min and Feng, Shihang and Lin, Youzuo and Lu, Lu},
   journal = {Computer Methods in Applied Mechanics and Engineering},
   volume  = {416},
   pages   = {116300},
-  year    = {2023}
+  year    = {2023},
   doi     = {https://doi.org/10.1016/j.cma.2023.116300}
 }
 ```

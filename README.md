@@ -6,8 +6,8 @@ The data and code for the paper [M. Zhu, S. Feng, Y. Lin, & L. Lu. Fourier-DeepO
 
 - [FlatVel-B (FVB)](data/fvb)
 - [CurveVel-A (CVA)](data/cva)
-- [CurveFault-A](data/cfa)
-- [Style-A](data/sta)
+- [CurveFault-A (CFA)](data/cfa)
+- [Style-A (STA)](data/sta)
 
 Run data_gen_f.py, data_gen_loc.py, and data_gen_loc_f.py to generate seismic data of FWI-F, FWI-L, and FWI-FL, respectively.
 

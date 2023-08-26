@@ -12,7 +12,8 @@ The data and code for the paper [M. Zhu, S. Feng, Y. Lin, & L. Lu. Fourier-DeepO
 Run data_gen_f.py, data_gen_loc.py, and data_gen_loc_f.py to generate seismic data of FWI-F, FWI-L, and FWI-FL, respectively.
 
 ## Code
-In [train.py](src/train.py) and [test.py](src/test.py) change the arguements 'dataset' and 'task' in main function as needed.
+In [train.py](src/train.py) and [test.py](src/test.py), change the arguements 'dataset' and 'task' in main function as needed.
+
 Run [train.py](src/train.py) for training, and then run [test.py](src/test.py) for testing.
 
 ## Cite this work

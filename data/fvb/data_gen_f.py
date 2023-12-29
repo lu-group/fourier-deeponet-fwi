@@ -132,6 +132,6 @@ if __name__ == "__main__":
                 seis_i = FWM(v_torch_i,nbc,dx,nt,dt,f,sx,sz,gx,gz).cpu().detach().numpy()
             seis.append(seis_i)
         seis = np.concatenate(seis)
-        np.save(f'./seismic/loc/data{iii+1}.npy',seis)
+        np.save(f'./seismic/f/data{iii+1}.npy',seis)
         torch.cuda.empty_cache()
 
